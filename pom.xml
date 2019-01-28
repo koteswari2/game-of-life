@@ -498,8 +498,8 @@
     
     <distributionManagement>
        <snapshotRepository>
-          <id>nexus-snapshots</id>
-          <url>http://localhost:8081/nexus/content/repositories/snapshots</url>
+          <id>maven-repo</id>
+          <url>http://localhost:8081/nexus/content/repositories/maven-repo/</url>
        </snapshotRepository>
     </distributionManagement>
 
